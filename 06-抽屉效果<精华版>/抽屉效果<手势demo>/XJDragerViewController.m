@@ -4,7 +4,7 @@
 //
 //  Created by 李胜兵 on 16/9/28.
 //  Copyright © 2016年 付公司. All rights reserved.
-//
+//  github链接： https://github.com/lishengbing/XJDragViewController
 
 #import "XJDragerViewController.h"
 #define XJScreenW [UIScreen mainScreen].bounds.size.width

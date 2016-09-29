@@ -3,12 +3,12 @@
 
 
 
-![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a1.gif) ![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a2.gif)
+![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a1.gif)  ![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a2.gif)
 
-![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a3.gif)  ![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a4.gif)
+![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a3.gif)   ![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a4.gif)
 
 
-![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a6.gif)![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a5.gif)
+![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a6.gif)  ![XJDmain](https://github.com/lishengbing/XJDragViewController/blob/master/06-%E6%8A%BD%E5%B1%89%E6%95%88%E6%9E%9C%3C%E7%B2%BE%E5%8D%8E%E7%89%88%3E/a5.gif)
 
 
 
