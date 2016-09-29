@@ -3,8 +3,8 @@
 
 
 
-/Users/lishengbing/Desktop/a1.gif
 
+![XJDmain](/Users/lishengbing/Desktop/a1.gif)
 
 
 
