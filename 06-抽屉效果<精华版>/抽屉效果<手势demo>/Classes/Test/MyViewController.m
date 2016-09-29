@@ -26,15 +26,16 @@
     [self.mainView addSubview:vc1.view];
     [self addChildViewController:vc1];
     
-    
     XJTableViewController *vc2 = [[XJTableViewController alloc] init];
     vc2.view.backgroundColor = [UIColor orangeColor];
     vc2.view.frame = self.mainView.frame;
-    [self.leftView addSubview:vc2.view];
-    [self addChildViewController:vc2];
+    UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:vc2];
+    vc2.navigationItem.title = @"标题";
+    [self.leftView addSubview:nav.view];
+    [self addChildViewController:nav];
     
     
-    self.direction = XJDragDirectionFromLeftAndRight;
+    self.direction = XJDragDirectionFromRightToLeft;
     self.maxY = 150;
     self.xj_TargetLeft = 330000000000000;
     self.xj_TargetRight = -1234567890;
