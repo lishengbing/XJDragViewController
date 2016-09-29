@@ -34,7 +34,7 @@
     [self addChildViewController:vc2];
     
     
-    self.direction = XJDragDirectionFromDefault;
+    self.direction = XJDragDirectionFromLeftToRight;
     self.maxY = 150;
     self.xj_TargetLeft = 330000000000000;
     self.xj_TargetRight = -1234567890;
