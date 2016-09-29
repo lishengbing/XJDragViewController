@@ -3,8 +3,8 @@
 
 
 
-
-![XJDmain](/Users/lishengbing/Desktop/a1.gif)
+https://github.com/lishengbing/XJDragViewController/06-抽屉效果<精华版>/a1.gif
+![XJDmain](https://github.com/lishengbing/XJDragViewController/06-抽屉效果<精华版>/a1.gif)
 
 
 

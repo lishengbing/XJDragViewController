@@ -10,6 +10,7 @@
 		A30A6DB41D9D08030037BCD7 /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A30A6DB01D9D08030037BCD7 /* MyViewController.m */; };
 		A30A6DB51D9D08030037BCD7 /* XJTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A30A6DB21D9D08030037BCD7 /* XJTableViewController.m */; };
 		A30A6DB81D9D08510037BCD7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A30A6DB71D9D08510037BCD7 /* AppDelegate.m */; };
+		A30A6DBA1D9D10A80037BCD7 /* a1.gif in Resources */ = {isa = PBXBuildFile; fileRef = A30A6DB91D9D10A80037BCD7 /* a1.gif */; };
 		A38491B31D9BCCE600885338 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A38491B21D9BCCE600885338 /* main.m */; };
 		A38491BC1D9BCCE600885338 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A38491BA1D9BCCE600885338 /* Main.storyboard */; };
 		A38491BE1D9BCCE600885338 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A38491BD1D9BCCE600885338 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 		A30A6DB21D9D08030037BCD7 /* XJTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XJTableViewController.m; sourceTree = "<group>"; };
 		A30A6DB61D9D08510037BCD7 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A30A6DB71D9D08510037BCD7 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A30A6DB91D9D10A80037BCD7 /* a1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = a1.gif; sourceTree = "<group>"; };
 		A38491AE1D9BCCE600885338 /* 抽屉效果<手势demo>.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "抽屉效果<手势demo>.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A38491B21D9BCCE600885338 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A38491BB1D9BCCE600885338 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 		A38491A51D9BCCE600885338 = {
 			isa = PBXGroup;
 			children = (
+				A30A6DB91D9D10A80037BCD7 /* a1.gif */,
 				A38491B01D9BCCE600885338 /* 抽屉效果<手势demo> */,
 				A38491AF1D9BCCE600885338 /* Products */,
 			);
@@ -164,6 +167,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A30A6DBA1D9D10A80037BCD7 /* a1.gif in Resources */,
 				A38491C11D9BCCE600885338 /* LaunchScreen.storyboard in Resources */,
 				A38491BE1D9BCCE600885338 /* Assets.xcassets in Resources */,
 				A38491BC1D9BCCE600885338 /* Main.storyboard in Resources */,

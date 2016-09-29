@@ -4,7 +4,7 @@
 //
 //  Created by 李胜兵 on 16/9/28.
 //  Copyright © 2016年 付公司. All rights reserved.
-//
+//XJDragViewController/06-抽屉效果<精华版>/a1.gif
 
 #import <UIKit/UIKit.h>
 
