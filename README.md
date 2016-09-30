@@ -37,4 +37,4 @@ self.xj_TargetRight = -1234567890;
 
 github相关链接： https://github.com/lishengbing/XJDragViewController
 
-git.oschina链接:   https://my.oschina.net/shengbingli/blog/edit
+git.oschina链接:   https://my.oschina.net/shengbingli/blog
